@@ -10,10 +10,10 @@ O foco aqui são apenas algumas notações que eu for aprendendo com o tempo, co
 
 | Capítulo | Título | Conceitos Principais |
 | --- | --- | --- |
-| **01** | [Fundamentos Web e Spring Boot](https://www.google.com/search?q=./capitulo-01.md) | REST, Protocolo HTTP, Inversão de Controle e Injeção de Dependência. |
-| **02** | [Persistência e Abstração Relacional](https://www.google.com/search?q=./capitulo-02.md) | Banco de Dados, JPA, Hibernate e o padrão Repository. |
-| **03** | [Arquitetura Profissional: DTOs e Services](https://www.google.com/search?q=./capitulo-03.md) | Camada de Serviço, Records (DTOs) e Tratamento de Erros Global. |
-| **04** | [Integridade de Dados com Bean Validation](https://www.google.com/search?q=./capitulo-04.md) | Validação declarativa, anotações Jakarta e tratamento de erros 400. |
+| **01** | [Fundamentos Web e Spring Boot](https://www.google.com/search?q=./01-fundamentos-arquitetura-web.md) | REST, Protocolo HTTP, Inversão de Controle e Injeção de Dependência. |
+| **02** | [Persistência e Abstração Relacional](https://www.google.com/search?q=./02-persistencia-de-dados.md) | Banco de Dados, JPA, Hibernate e o padrão Repository. |
+| **03** | [Arquitetura Profissional: DTOs e Services](https://www.google.com/search?q=./03-Arquitetura.md) | Camada de Serviço, Records (DTOs) e Tratamento de Erros Global. |
+| **04** | [Integridade de Dados com Bean Validation](https://www.google.com/search?q=./04-Bean-validation.md) | Validação declarativa, anotações Jakarta e tratamento de erros 400. |
 
 ---
 
